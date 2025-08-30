@@ -1,0 +1,12 @@
+I didn't find a log so here we are 8/14/2025.
+
+SLN sez I started this around 20 January 2020, and worked on it at least until the 25th. This was a DNF to the point I was discouraged from going further.
+...yeah, even during COVID. (we weren't really looking at COVID then...)
+
+But the maze-generators I'd done in July 2025 got me re-couraged.
+I did more work 2-3 August 2025. 14 August: Fixed some monstrous bugs and did the landscapes. And an icon LOL.
+15 August, fixed the thrusters, tweaked the constants. it's playable! so, where the GOLDMINE was at, day Two.
+16 August, finished the game as such.
+
+... we could also use sound.
+

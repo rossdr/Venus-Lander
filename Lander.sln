@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocoDrawParser", "..\Timpist\CocoDrawParser\CocoDrawParser.csproj", "{B599408B-2ADC-4B39-B947-E8D89E48B867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lander", "Lander\Lander.csproj", "{FF671A4D-3E5B-42D4-847D-635E96DC34DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B599408B-2ADC-4B39-B947-E8D89E48B867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B599408B-2ADC-4B39-B947-E8D89E48B867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B599408B-2ADC-4B39-B947-E8D89E48B867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B599408B-2ADC-4B39-B947-E8D89E48B867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF671A4D-3E5B-42D4-847D-635E96DC34DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF671A4D-3E5B-42D4-847D-635E96DC34DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF671A4D-3E5B-42D4-847D-635E96DC34DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF671A4D-3E5B-42D4-847D-635E96DC34DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DC6F561-62FD-4B3D-B453-D63ACB3E2285}
+	EndGlobalSection
+EndGlobal
