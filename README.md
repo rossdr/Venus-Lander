@@ -2,7 +2,7 @@ In 1982, one Stephen "Steve" Sullivan of Kansas City, MO wrote a lander program 
 
 The Lander, in Sullivan's original code, was a "Lunar" lander. But as you will see, at heart it is not. There is sound, which few known moons should carry; but also, we get sky (the land is black against it) and terminal-velocity. Sullivan's colorset had green as the background. He could have used red like Mars but chose against it; he also wasn't keen on blue. So he named his game "Venus Lander" on submission to the magazine.
 
-This conversion uses a custom parser to handle the "Logo" pattern of Color Computer's DRAW command. One could just as well run the code in the Xroar emulator, saving the bitmaps. But at 256x192, I didn't think it mattered.
+This conversion uses a custom parser to handle the "Logo" pattern of Color Computer's DRAW command. One could just as well run the code in the Xroar emulator, saving the bitmaps. But at 256x192, I didn't think it mattered. This also includes a replacement for PAINT, <a href='https://simpledevcode.wordpress.com/2015/12/29/flood-fill-algorithm-using-c-net/'>Karim Oumghar</a>'s flood-fill.
 
 I did not however use a music parser. Some such parsers are floating around, e.g. for the Commodore; but I have not yet found a good one for CoCo. I ran those sounds in Xroar and held a microphone to the speaker; I then resaved that noise as WAV. In my opinion Xroar should allow some native output to FLAC; in my further opinion, Visual Studio should support FLAC as-well-as-but-preferably-instead-of WAV. Pardon the rant.
 
