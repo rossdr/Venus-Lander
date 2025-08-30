@@ -79,16 +79,16 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Timpist\CocoDrawParser\CocoDrawParser.csproj">
-      <Project>{b599408b-2adc-4b39-b947-e8d89e48b867}</Project>
-      <Name>CocoDrawParser</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Kaboom.wav">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Lander.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CocoDrawParser\CocoDrawParser.csproj">
+      <Project>{b599408b-2adc-4b39-b947-e8d89e48b867}</Project>
+      <Name>CocoDrawParser</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
